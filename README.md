@@ -1,2 +1,2 @@
 # NanoGPT
-this is a nano version of GPT which generates a poem on the accent of Shakepeare
+This is a simplified, lightweight version of GPT designed to generate poetry in the style and accent of Shakespeare.
